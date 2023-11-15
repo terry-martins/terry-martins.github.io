@@ -2813,6 +2813,18 @@ input, select, textarea {
 		list-style: none;
 	}
 
+	.feature-image {
+		height: 250px; 
+		width: 250px;
+		border-radius: 50%;
+		object-fit: cover;
+	}
+
+	.feature-heading {
+		font-size: 23px;
+		font-weight: 800;
+	}
+
 		.features li {
 			width: calc(33.33333% - 2em);
 			margin-left: 2em;
