@@ -2631,7 +2631,12 @@ input, select, textarea {
 			}
 
 /* Section/Article */
-
+.resume_container{
+		background-color: #e37682;
+    .resume_writeup{
+		font-size: 19px;
+	}
+}
 	section.special, article.special {
 		text-align: center;
 	}
